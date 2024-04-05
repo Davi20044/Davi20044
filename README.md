@@ -1,4 +1,5 @@
-![Banner para Linkedin Tecnologia em Preto (2)](https://github.com/Davi20044/Davi20044/assets/122330494/5fda1dfd-91c0-4e23-8bfd-28ecf56e9175)
+![Banner para Linkedin Tecnologia em Preto (3)](https://github.com/Davi20044/Davi20044/assets/122330494/ea124715-61f5-4b47-aa5c-c052ed0cbc5b)
+
 
 # Davi Santos dos Passos
 
