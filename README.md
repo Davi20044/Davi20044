@@ -1,4 +1,12 @@
-### Hi there 👋
+![Banner para Linkedin Tecnologia em Preto (2)](https://github.com/Davi20044/Davi20044/assets/122330494/5fda1dfd-91c0-4e23-8bfd-28ecf56e9175)
+
+# Davi Santos dos Passos
+
+Me chamo Davi Santos dos Passos, Programador Full Stack na área de Programação Web, entusiasta de Inteligência Artificial e Machine Learning.
+
+Minhas experiências e competências em grande parte provêm de projetos e estudos independentes. Por gostar muito de adquirir conhecimentos dos mais variados, acabei por criar projetos em diferentes áreas que busquei conhecer, alguns dos quais estão disponíveis em meu perfil. Sempre pretendo me especializar e atualizar em minhas áreas de conhecimento.
+
+Além do conhecimento adquirido de maneira independente, também cursei Desenvolvimento de Sistemas pelo Colégio Serrano Guardia, além do Curso Superior em Análise e Desenvolvimento de Sistemas pela Uninter, que estou cursando atualmente.
 
 <!--
 **Davi20044/Davi20044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
